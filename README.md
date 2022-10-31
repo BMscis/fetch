@@ -5,6 +5,16 @@ to interact with these APIs and to transform their responses into a format neede
 this homework, we provide a sample API with a single endpoint and ask you to write some JavaScript to request data from
 the API and transform the response.
 
+## HOW TO RUN
+```
+npm install
+```
+then
+
+```
+npm run test
+```
+
 ## Records API
 
 You'll be provided with a `/records` API endpoint that returns a JSON array of items in the following format:
